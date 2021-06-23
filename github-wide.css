@@ -8,6 +8,10 @@
   padding-left: 30px !important;
 }
 
+div.file-info > a.link-gray-dark {
+  font-size: 16px;
+}
+
 /* Responsive containers on some pages */
 .container-lg,
 .container-xl {
